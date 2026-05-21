@@ -1,157 +1,351 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Vivek Shaganti</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Competitive Programmer | AI Enthusiast</h3>
+<!-- ==================== CYBERPUNK HEADER ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Vivek%20Shaganti&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=60" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/vivek-shaganti1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Competitive+Programmer;AI+%2F+Cloud+Enthusiast;Hackathon+Winner+🏆;Building+Scalable+Applications" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Java+Full+Stack+Developer;Competitive+Programmer;Spring+Boot+%2B+React+Developer;Cloud+%26+AI+Enthusiast;Hackathon+Winner+🏆;Building+Scalable+Applications" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vivek-shaganti1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/vivek-shaganti1?label=Followers&style=for-the-badge&color=00F7FF" />
+
+<img src="https://img.shields.io/github/stars/vivek-shaganti1?label=Stars&style=for-the-badge&color=blue" />
+
 </p>
 
 ---
 
-# 🌌 About Me
+# ⚡ SYSTEM TERMINAL
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```yaml
+name: Vivek Shaganti
+role: Java Full Stack Developer
+university: Anurag University
+cgpa: 9.21
+location: India
+
+focus:
+  - Spring Boot
+  - React
+  - DSA
+  - System Design
+  - Cloud Computing
+  - Backend Engineering
+
+currently_learning:
+  - Kubernetes
+  - Microservices
+  - DevOps
+  - Advanced Backend Systems
+
+hackathons_won: multiple
+competitive_programming: Codeforces + LeetCode
+```
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-1a9d9cb4-2b0d-4c3e-a4f6-4f0b1b65d2d2.gif" width="100%">
+
+# 🧠 SYSTEM DESIGN CANVAS
+
+```text
+                    ┌─────────────────────┐
+                    │      CLIENT         │
+                    └─────────┬───────────┘
+                              │
+                              ▼
+                    ┌─────────────────────┐
+                    │    API GATEWAY      │
+                    └─────────┬───────────┘
+                              │
+         ┌────────────────────┼────────────────────┐
+         ▼                    ▼                    ▼
+
+┌────────────────┐  ┌────────────────┐  ┌────────────────┐
+│ AUTH SERVICE   │  │ PRODUCT API    │  │ PAYMENT API    │
+└────────────────┘  └────────────────┘  └────────────────┘
+
+         │                    │                    │
+         └────────────────────┼────────────────────┘
+                              ▼
+
+                  ┌──────────────────────┐
+                  │      MYSQL DB        │
+                  └──────────────────────┘
+
+                              ▼
+
+                  ┌──────────────────────┐
+                  │ REDIS CACHE / MQ     │
+                  └──────────────────────┘
+
+                              ▼
+
+                  ┌──────────────────────┐
+                  │ DOCKER + KUBERNETES  │
+                  └──────────────────────┘
+```
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f6f39-1cb4-4f84-bb83-3d7db7f5f4f8.gif" width="100%">
+
+# 🚀 ABOUT ME
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🎓 CSE Undergraduate at **Anurag University**
 - 💻 Passionate about **Java Full Stack Development**
-- ☁️ Selected for **PwC Launchpad Cloud Computing Program**
+- ☁️ Selected for **PwC Launchpad Cloud Program**
 - 🧠 Strong in **DSA, OOP & System Design**
 - 🏆 Multiple Hackathon Winner
-- 📚 Currently learning **Advanced Backend Engineering**
-- ⚡ Love solving problems on **Codeforces & LeetCode**
-- 🚀 Building scalable applications using **Spring Boot & React**
+- ⚡ Solving problems on **Codeforces & LeetCode**
+- 🚀 Building scalable apps using **Spring Boot & React**
+- 📚 Exploring **Cloud + DevOps Engineering**
+- 🔥 Interested in **Backend Infrastructure & SaaS Systems**
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
-🏅 Winner — Data Dynamo 2.0 Hackathon  
-🏅 Winner — Eco-Insights Innovation Challenge ($3000 Funding)  
-🥈 Runner-Up — TECH HACK #3 National Hackathon  
-📜 Patent Approved — AI-Based Virtual Professor System  
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/vivek-goud-shaganti-01111b28a/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-<a href="https://github.com/vivek-shaganti1" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
-<a href="https://codeforces.com/profile/vivek_shaganti" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="50" width="50"/>
-</a>
-
-<a href="https://leetcode.com/u/vivekshaganti22/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=leetcode" height="50" />
-</a>
-</p>
+| Achievement | Status |
+|---|---|
+| 🏅 Data Dynamo 2.0 Hackathon Winner | ✅ |
+| 🏅 Eco-Insights Innovation Challenge | ✅ |
+| 🥈 TECH HACK #3 Runner-Up | ✅ |
+| 📜 AI-Based Virtual Professor Patent | ✅ |
+| 💻 Competitive Programming | Active |
+| ☁️ Cloud Engineering Learning | In Progress |
 
 ---
 
-# 💻 Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212750568-4cab7d63-3e47-44a7-bfe5-1a4c2c39f58f.gif" width="100%">
+
+# 💻 TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,python,javascript,html,css,mysql,mongodb,git,github,azure,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,javascript,typescript,html,css,mysql,mongodb,postgresql,redis,docker,kubernetes,git,github,linux,azure,c,cpp" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivek-shaganti1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivek-shaganti1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-shaganti1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-shaganti1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vivek-shaganti1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek-shaganti1&theme=tokyo-night)](https://github.com/vivek-shaganti1)
-
----
-
-# 🧠 Competitive Programming
+# 🔥 GITHUB STREAK
 
 <p align="center">
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=vivek_shaganti&theme=github_dark" />
+<img src="https://streak-stats.demolab.com?user=vivek-shaganti1&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📈 CONTRIBUTION GRAPH
 
-## 🌾 RythuSeva — AI AgriTech Platform
-- AI + Blockchain based agriculture ecosystem
-- Predictive crop recommendation system
-- Farmer-to-buyer marketplace
-- Secured **$3000 innovation funding**
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-shaganti1&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
 
-## 📊 MarketMind — ML Analytics Dashboard
-- Built using Python & Scikit-learn
-- Predictive analytics dashboard
-- Automated market analysis workflows
+</p>
 
 ---
 
-## 💼 Java Full Stack Application
-- Java + Spring Boot + React
+# 🧠 COMPETITIVE PROGRAMMING
+
+<p align="center">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=vivek_shaganti&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌾 RythuSeva
+
+AI + Blockchain Agriculture Platform
+
+### ⚡ Features
+- AI crop recommendation
+- Farmer marketplace
+- Blockchain transparency
+- Real-time analytics
+
+### 🛠️ Stack
+`Spring Boot` `React` `MySQL` `Machine Learning`
+
+### 🏆 Achievement
+Secured **$3000 Innovation Funding**
+
+</td>
+
+<td width="50%">
+
+## 📊 MarketMind
+
+ML Analytics Dashboard
+
+### ⚡ Features
+- Predictive analytics
+- Automated workflows
+- Market intelligence
+- AI-driven insights
+
+### 🛠️ Stack
+`Python` `Scikit-learn` `React`
+
+### 🚀 Focus
+Scalable AI analytics system
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 💼 Java Full Stack App
+
+### ⚡ Features
 - JWT Authentication
 - REST APIs
-- Microservices Architecture
+- Role-based access
+- Microservices architecture
+
+### 🛠️ Stack
+`Spring Boot` `React` `MySQL`
+
+</td>
+
+<td width="50%">
+
+## ☁️ Cloud DevOps System
+
+### ⚡ Features
+- Dockerized services
+- CI/CD pipelines
+- Kubernetes deployment
+- Monitoring setup
+
+### 🛠️ Stack
+`Docker` `Kubernetes` `Linux`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<img src="https://raw.githubusercontent.com/vivek-shaganti1/vivek-shaganti1/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏅 GITHUB TROPHIES
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vivek-shaganti1&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=vivek-shaganti1&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </p>
 
 ---
 
-# 👀 Profile Views
+# 📡 DEV DASHBOARD
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vivek-shaganti1&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-shaganti1&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vivek-goud-shaganti-01111b28a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+</a>
+
+<a href="https://github.com/vivek-shaganti1">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+<a href="https://codeforces.com/profile/vivek_shaganti">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="60" width="60"/>
+</a>
+
+<a href="https://leetcode.com/u/vivekshaganti22/">
+<img src="https://skillicons.dev/icons?i=leetcode" height="60"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ CURRENT FOCUS
+
+```text
+☁️ Cloud Engineering
+🧠 System Design
+⚙️ Backend Scalability
+🚀 DevOps + Kubernetes
+💻 Competitive Programming
+```
+
+---
+
+# 🧪 BUILD PRINCIPLES
+
+```text
+✔ Reliability First
+✔ Scalable Systems
+✔ Clean Architecture
+✔ Performance Optimization
+✔ Production-Ready Code
+✔ API-Driven Design
+✔ Secure Authentication
+✔ Maintainable Infrastructure
+```
+
+---
+
+# ⚡ FUN FACT
 
 ```diff
 + I turn coffee ☕ into scalable applications 🚀
@@ -159,4 +353,10 @@
 
 ---
 
-<h3 align="center">🔥 “Code. Build. Scale. Repeat.” 🔥</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=120&section=footer"/>
+
+<h3 align="center">
+
+🔥 Code • Build • Scale • Repeat 🔥
+
+</h3>
