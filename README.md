@@ -285,7 +285,6 @@ ML Analytics Dashboard
 </p>
 
 ---
-
 # 🏅 GITHUB TROPHIES
 
 <p align="center">
