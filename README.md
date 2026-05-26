@@ -1,10 +1,14 @@
+<!-- ========================================================= -->
+<!--                  VIVEK SHAGANTI PROFILE                  -->
+<!-- ========================================================= -->
+
 <!-- ========================== HEADER ========================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Vivek%20Shaganti&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Vivek%20Shaganti&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=22"/>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Competitive+Programmer;Spring+Boot+%2B+React+Developer;Cloud+%26+AI+Enthusiast;Hackathon+Winner+🏆;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Competitive+Programmer;Spring+Boot+%2B+React+Developer;Cloud+%26+AI+Enthusiast;Hackathon+Winner+🏆;Building+Scalable+Applications"/>
 
 </p>
 
@@ -52,7 +56,7 @@ hackathons_won: multiple
 
 ---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284068-1a9d9cb4-2b0d-4c3e-a4f6-4f0b1b65d2d2.gif"/>
+<img width="100%" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
 
 # 🧠 SYSTEM DESIGN CANVAS
 
@@ -96,11 +100,11 @@ hackathons_won: multiple
 
 ---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2b8f6f39-1cb4-4f84-bb83-3d7db7f5f4f8.gif"/>
+<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 # 🚀 ABOUT ME
 
-<img align="right" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 - 🎓 CSE Undergraduate at **Anurag University**
 - 💻 Passionate about **Java Full Stack Development**
@@ -129,7 +133,7 @@ hackathons_won: multiple
 
 ---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750568-4cab7d63-3e47-44a7-bfe5-1a4c2c39f58f.gif"/>
+<img width="100%" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
 # 💻 TECH STACK
 
@@ -145,7 +149,7 @@ hackathons_won: multiple
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivek-shaganti1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivek-shaganti1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-shaganti1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
@@ -310,7 +314,7 @@ ML Analytics Dashboard
 </a>
 
 <a href="https://codeforces.com/profile/vivek_shaganti">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="60"/>
 </a>
 
 <a href="https://leetcode.com/u/vivekshaganti22/">
@@ -352,6 +356,65 @@ ML Analytics Dashboard
 
 ```diff
 + I turn coffee ☕ into scalable applications 🚀
+```
+
+---
+
+# 🎯 2026 GOALS
+
+```text
+🚀 Crack top product-based internships
+☁️ Master Kubernetes & DevOps
+🧠 Become Expert in System Design
+💻 Reach Specialist on Codeforces
+🔥 Build scalable SaaS products
+```
+
+---
+
+# 📌 PROFILE INSIGHTS
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek-shaganti1&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek-shaganti1&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚙️ DEVELOPMENT ENVIRONMENT
+
+```yaml
+OS: macOS
+Editor: VS Code
+Languages:
+  - Java
+  - JavaScript
+  - Python
+  - C++
+Database:
+  - MySQL
+  - PostgreSQL
+Tools:
+  - Docker
+  - Kubernetes
+  - Git
+  - Linux
+Cloud:
+  - Azure
+```
+
+---
+
+# 🔥 MOTIVATION
+
+```text
+Code.
+Build.
+Scale.
+Repeat.
 ```
 
 ---
