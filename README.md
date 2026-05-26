@@ -56,7 +56,6 @@ hackathons_won: multiple
 
 ---
 
-<img width="100%" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
 
 # 🧠 SYSTEM DESIGN CANVAS
 
@@ -291,11 +290,11 @@ ML Analytics Dashboard
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vivek-shaganti1&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vivek-shaganti1&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
----    
+---
 
 # 📡 DEV DASHBOARD
 
