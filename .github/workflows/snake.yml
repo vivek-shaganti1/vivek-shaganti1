@@ -10,21 +10,21 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
-        with:
-          github_user_name: vivek-shaganti1
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Generate Snake
+        uses: DenverCoder1/github-readme-streak-stats@main
 
-      - name: Deploy Snake Animation
+      - name: Create Snake SVG
+        run: |
+          mkdir -p dist
+          curl -o dist/github-contribution-grid-snake-dark.svg https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
+
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
