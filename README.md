@@ -144,23 +144,6 @@ hackathons_won: multiple
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivek-shaganti1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-shaganti1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-
-</p>
-
-<p align="center">
-
-<img width="85%" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
-
-</p>
-
----
 
 # 🔥 GITHUB STREAK
 
@@ -276,24 +259,7 @@ ML Analytics Dashboard
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/vivek-shaganti1/vivek-shaganti1/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-# 🏅 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivek-shaganti1&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
----
 
 # 📡 DEV DASHBOARD
 
