@@ -149,9 +149,15 @@ hackathons_won: multiple
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivek-shaganti1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivek-shaganti1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-shaganti1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-shaganti1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+
+</p>
+
+<p align="center">
+
+<img width="85%" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
 
 </p>
 
